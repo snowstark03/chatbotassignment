@@ -1,3 +1,56 @@
+# BeyondChats Admin Panel Clone
+
+A React-based clone of Intercom's  admin panel UI, built as part of the BeyondChats internship assignment.
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live site](https://fanciful-zuccutto-975ee0.netlify.app/)
+
+## 📹 Github repo
+
+ 
+[Intercom Admin Panel Demo](https://github.com/snowstark03/chatbotassignment)
+
+## ✨ Features Implemented
+
+- Modern UI with responsive design
+- Sidebar navigation and chat UI
+- Message threads and chat interface
+- Dummy data for conversations
+- Mobile responsiveness
+- Smooth transitions and animations
+
+## 🧰 Tech Stack
+
+- React.js
+- Tailwind CSS / shadcn/ui
+- React Router (if routing used)
+- Deployed on [Vercel / Netlify]
+
+## 💻 Getting Started Locally
+
+```bash
+git clone https://github.com/snowstark03/chatbotassignment
+cd chatbotassignment
+npm install
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
